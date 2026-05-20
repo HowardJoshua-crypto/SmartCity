@@ -251,10 +251,11 @@ It is a digital civic infrastructure designed to transform citizen voice into st
 
 By connecting citizens, leaders, and institutions through trusted digital systems, CivicPulse aims to support more responsive governance, stronger public participation, and improved service delivery.
 
-Founder
-
-Rwotomara Joshua Howard
 Founder & CEO
+Tumushabe Happy
+Co-Founder
+Rwotomara Joshua Howard
+
 
 Project Status
 
